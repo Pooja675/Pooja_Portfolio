@@ -4,15 +4,20 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #333333;
+  --primary: #522ffe;
+  ---card: #ffffff;
+
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
+
+  .dark {
     --background: #0a0a0a;
-    --foreground: #ededed;
+    --foreground: #ffffff;
+    --primary: #522ffe;
+    ---card: #1d1d1d;
+
   }
-}
 
 body {
   color: var(--foreground);
