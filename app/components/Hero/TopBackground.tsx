@@ -35,7 +35,7 @@ const TopBackground = () => {
             />
           </div>
 
-          <div className="hidden md:circle-icon md:top-[592px]  md:left-[608px]">
+          <div className="hidden md:circle-icon md:top-[600px]  md:left-[608px]">
             <Image
               src="/electricity_icon.svg"
               alt="Electricity Icon"
@@ -72,11 +72,11 @@ const TopBackground = () => {
 
       <div className="absolute top-0 w-full h-[795px] bg-repeat-x bg-[url('/top_bg_light.svg')] bg-[auto-auto] hidden dark:hidden md:block"/>
 
-      <div className="absolute top-0 w-full h-[600px] bg-repeat-x bg-[url('/top_bg_mobile_light.svg')] bg-[auto-auto] dark:hidden md:hedden"/>
+      <div className="absolute top-0 w-full h-[600px] bg-repeat-x bg-[url('/top_bg_mobile_light.svg')] bg-[auto-auto] dark:hidden md:hidden"/>
 
       <div className="absolute top-0 w-full h-[795px] bg-repeat-x bg-[url('/top_bg_dark.svg')] bg-[auto-auto] hidden md:dark:block"/>
 
-      <div className="absolute top-0 w-full h-[600px] bg-repeat-x bg-[url('/top_bg_mobile_dark.svg')] bg-[auto-auto] dark:block dark:md:hedden"/>
+      <div className="absolute top-0 w-full h-[600px] bg-repeat-x bg-[url('/top_bg_mobile_dark.svg')] bg-[auto-auto] hidden dark:block dark:md:hidden"/>
     </>
   );
 };

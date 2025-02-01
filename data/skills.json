@@ -1,0 +1,42 @@
+[
+  {
+    "name": "HTML",
+    "icon": "/html_icon.png"
+  },
+  {
+    "name": "CSS",
+    "icon": "/css_icon.png"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "/tailwindCSS.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "/JavaScript.png"
+  },
+  {
+    "name": "React",
+    "icon": "/react_icon.png"
+  },
+  {
+    "name": "Redux",
+    "icon": "/redux.png"
+  },
+  {
+    "name": "Node",
+    "icon": "/node_icon.png"
+  },
+  {
+    "name": "Rest API",
+    "icon": "/rest_api.jpg"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "/mongodb.png"
+  },
+  {
+    "name": "Git",
+    "icon": "/git-icon.png"
+  }
+]
