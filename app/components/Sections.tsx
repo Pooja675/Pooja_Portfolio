@@ -2,6 +2,7 @@ import React from 'react'
 import Hero from './Hero/Hero'
 import Skills from './Skills/Skills'
 import Projects from './Projects.tsx/Projects'
+import Educations from './Educations/Educations'
 
 
 const Sections = () => {
@@ -10,6 +11,7 @@ const Sections = () => {
         <Hero/>
         <Skills/>
         <Projects />
+        <Educations />
     </main>
   )
 }

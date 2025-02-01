@@ -1,3 +1,4 @@
+import { transform } from "next/dist/build/swc/generated-native";
 import type { Config } from "tailwindcss";
 
 export default {
@@ -18,6 +19,20 @@ export default {
 
 
       },
+
+      keyframes: {
+        scroll: {
+          "0%": {
+            transform: "translateX(-5.2%)"
+          },
+          "100%": {
+            transform: "translateX(-55.2%)"
+          }
+        }
+      },
+      animation: {
+        scroll:"scroll 25s linear infinite"
+      }
     },
   },
   plugins: [],
