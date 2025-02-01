@@ -7,7 +7,7 @@
       "url": "https://mern-blog55.onrender.com/"
     },
     "description": "Web Dev Chronicles: Your go-to destination for all things web development. Developed a modern, responsive design using React.js and Tailwind CSS, including dark mode support.",
-    "languageIcons":["/html_icon.png","/css_icon.png","/tailwindCSS.png","/react_icon.png", "/redux.png", "/node_icon.png", "/mongodb.png"]
+    "languageIcons":["/html_icon.png","/tailwindCSS.png","/react_icon.png", "/redux.png", "/node_icon.png", "/mongodb.png"]
   },
 
   {
@@ -18,7 +18,7 @@
       "url": "https://flavorsdash-fooddelivery-application.netlify.app/"
     },
     "description": "Developed a food delivery app with Google authentication using Firebase and leveraged Firebase for efficient data management and updates.",
-    "languageIcons":["/html_icon.png","/css_icon.png","/tailwindCSS.png","/react_icon.png",  "/redux.png"]
+    "languageIcons":["/html_icon.png","/tailwindCSS.png","/react_icon.png",  "/redux.png"]
   }
   
 

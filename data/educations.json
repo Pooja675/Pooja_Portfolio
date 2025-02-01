@@ -1,0 +1,17 @@
+[
+    {
+        "image":"/cdac.jpg",
+        "course":"PG Diploma in Advanced Computing",
+        "name": "CDAC Hyderbad"
+    },
+    {
+        "image":"/college.png",
+        "course":"B.E. - Compueter Engineering",
+        "name": "Savitribai Phule Pune University"
+    },
+    {
+        "image":"/kv.jpeg",
+        "course":"Higher Secondary Certificate",
+        "name": "Kendriya Vidyalaya AFS Nashik"
+    }
+]
