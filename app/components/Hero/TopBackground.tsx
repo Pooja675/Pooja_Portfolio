@@ -23,6 +23,7 @@ const TopBackground = () => {
               alt="Bracket Icon"
               width={23}
               height={23}
+              style={{ width: "auto", height: "auto" }} 
             />
           </div>
 
@@ -32,6 +33,7 @@ const TopBackground = () => {
               alt="Github Icon"
               width={23}
               height={23}
+              style={{ width: "auto", height: "auto" }} 
             />
           </div>
 
@@ -41,6 +43,7 @@ const TopBackground = () => {
               alt="Electricity Icon"
               width={23}
               height={23}
+              style={{ width: "auto", height: "auto" }} 
             />
           </div>
 

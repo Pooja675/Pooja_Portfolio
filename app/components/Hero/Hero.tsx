@@ -9,7 +9,7 @@ const Hero = () => {
         <Reveal initialX={-25}>
           <h1 className="text-2xl/1 text-center font-semibold block md:text-[40px] md:text-start md:inline">
             <span className="ml-3">👋</span>
-            Hello I'm Pooja, I'm a{" "}
+            Hello I&#8217;m Pooja, I&#8217;m a{" "}
             <span className="block text-[27px] highlight mt-2 md:text-[45px md:inline md:mt-0]">
               {" "}
               Frontend Developer
@@ -26,10 +26,10 @@ const Hero = () => {
         </Reveal>
         <Reveal initialX={-40} delay={0.4}>
           <a
-            href="mailto:ppojakr21555@gmail.com"
+            href="mailto:poojakr21555@gmail.com"
             className="self-center bg-primary text-white p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl/6"
           >
-            Let's Connect{" "}
+            Let&#8217;s Connect{" "}
             <img src="/arrow_right_icon.svg" alt="Arrow right icon" />
           </a>
         </Reveal>
@@ -55,6 +55,7 @@ const Hero = () => {
             alt="Profile profile"
             width={372}
             height={417}
+            style={{ width: "auto", height: "auto" }} 
             className="hidden md:block min-w-[355px] h-[417px] z-10 mr-[7.7px] my-[6.5px] rounded-md group-hover:scale-[102%] ease-in-out duration-300"
           />
         </Reveal>

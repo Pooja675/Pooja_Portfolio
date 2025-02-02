@@ -29,6 +29,7 @@ const Experience = ({
             alt={`company image for ${company}`}
             width={22}
             height={22}
+            style={{ width: "auto", height: "auto" }} 
           />
           <h3 className="text-lg font-medium">{company}</h3>
           

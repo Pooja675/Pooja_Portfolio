@@ -34,6 +34,7 @@ const Experiences = () => {
                 alt='Electricity icon'
                 width={23}
                 height={23}
+                style={{ width: "auto", height: "auto" }} 
             />
 
         </div>
