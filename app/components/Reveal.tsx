@@ -12,7 +12,6 @@ type Props = React.PropsWithChildren<{
 const Reveal = ({
   children,
   initialX = 0,
-  initialY = 0,
   duration = 1,
   delay = 0,
 }: Props) => {
