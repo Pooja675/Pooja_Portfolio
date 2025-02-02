@@ -1,8 +1,10 @@
 import Image from "next/image";
 import React from "react";
+import Reveal from "./Reveal";
 
 const Contact = () => {
   return (
+    <Reveal initialX={40} delay={0.4}>
     <section
       id="contact"
       className="card relative items-center mx-6 flex flex-col px-[33px] py-[27px] z-30 gap-[54px] md:gap-[35px] mb-[67px] md:mb-[42px]"
@@ -71,6 +73,7 @@ const Contact = () => {
       </div>
       <small>Copyright &copy; Pooja 2025</small>
     </section>
+    </Reveal>
   );
 };
 

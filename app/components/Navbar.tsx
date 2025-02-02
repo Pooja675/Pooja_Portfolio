@@ -2,6 +2,7 @@
 
 import React, { useCallback, useEffect, useState } from "react";
 import cn from "classnames";
+import Reveal from "./Reveal";
 
 const Navbar = () => {
 
@@ -27,6 +28,7 @@ const Navbar = () => {
         <img  className= "block dark:hidden" src="/menu_icon_light.svg" alt="menu icon" />
         <img  className= "hidden dark:block" src="/menu_icon_dark.svg" alt="menu icon" />
       </button>
+      <Reveal initialY={-20} duration={0.5}>
       <nav className={cn("bg-background card-shadow p-3 rounded md:block duration-300 ease-in-out", {
         "opacity-100": isOpen,
         "opacity-0 md:opacity-100":!isOpen,
@@ -115,6 +117,7 @@ const Navbar = () => {
             
         </ul>
       </nav>
+      </Reveal>
     </div>
   );
 };
