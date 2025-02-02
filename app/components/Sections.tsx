@@ -4,6 +4,7 @@ import Skills from './Skills/Skills'
 import Projects from './Projects.tsx/Projects'
 import Educations from './Educations/Educations'
 import Experiences from './Experiences/Experiences'
+import Contact from './Contact'
 
 
 const Sections = () => {
@@ -14,6 +15,7 @@ const Sections = () => {
         <Projects />
         <Educations />
         <Experiences />
+        <Contact />
     </main>
   )
 }
