@@ -1,0 +1,24 @@
+[
+  {
+    "image": "/freelancer.jpg",
+    "company": "Freelancer",
+    "role": "Frontend Developer",
+    "description": "Developed a modern, responsive design using React.js and Tailwind CSS, including dark mode support. Implemented dynamic routing with React Router for seamless navigation. Managed state efficiently using Redux Toolkit.",
+    "dates":" Mar 2024 - Present"
+  },
+  {
+    "image": "/self-employed.jpg",
+    "company": "Self-Employed",
+    "role": "Frontend Developer",
+    "description": "Developed a food delivery app leveraging Firebase for real-time database management and Google authentication. Designed an admin panel for managing food categories, with functionality for adding, editing, and removing items. Built a dynamic cart system with quantity adjustment and real-time total price calculations.",
+    "dates":"Dec 2022 - Oct 2023"
+  },
+  {
+    "image": "/ncr.png",
+    "company": "NCR Corporation",
+    "role": "QA Analyst",
+    "description": "Executed detailed test scenarios for cash dispensing and cheque acceptance functionalities. Performed performance testing and memory leak analysis using tools like Performance Monitor and Debug Diagnostic. Conducted NUnit testing on .NET components, ensuring robust software quality.",
+    "dates":"Dec 2017 - Dec 2018"
+  }
+  
+]

@@ -3,6 +3,7 @@ import Hero from './Hero/Hero'
 import Skills from './Skills/Skills'
 import Projects from './Projects.tsx/Projects'
 import Educations from './Educations/Educations'
+import Experiences from './Experiences/Experiences'
 
 
 const Sections = () => {
@@ -12,6 +13,7 @@ const Sections = () => {
         <Skills/>
         <Projects />
         <Educations />
+        <Experiences />
     </main>
   )
 }

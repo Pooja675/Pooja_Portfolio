@@ -7,7 +7,7 @@ import Education from './Education'
 
 const Educations = () => {
   return (
-    <SectionContainer id='educations'>
+    <SectionContainer id='education'>
         <div className='section-contents'>
             <SectionHeader 
                 plainText='Explore My Learning Journey'
