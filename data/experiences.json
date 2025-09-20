@@ -2,16 +2,23 @@
   {
     "image": "/freelancer.jpg",
     "company": "Freelancer",
-    "role": "Frontend Developer",
-    "description": "Developed a modern, responsive design using React.js and Tailwind CSS, including dark mode support. Implemented dynamic routing with React Router for seamless navigation. Managed state efficiently using Redux Toolkit.",
-    "dates":" Mar 2024 - Present"
+    "role": "Full-Stack Web Developer",
+    "description": "ZynkUp Chat App – A real-time messaging platform with secure authentication, personal and group chats, file and image sharing, easy downloads, emoji support, and a fully responsive design for seamless communication across devices.",
+    "dates":"June 2025 - Present"
+  },
+  {
+    "image": "/freelancer.jpg",
+    "company": "Freelancer",
+    "role": "Full-Stack Web Developer",
+    "description": "MERN Stack Blog App - Developed a fully responsive blog platform with secure authentication, role-based admin dashboard, and full CRUD operations for posts, comments, and users. Integrated advanced search with filters and sorting, interactive commenting features, and dark mode for enhanced user experience, and deployed the application for public access and portfolio showcasing.",
+    "dates":" Dec 2024 - April 2025"
   },
   {
     "image": "/self-employed.jpg",
     "company": "Self-Employed",
     "role": "Frontend Developer",
-    "description": "Developed a food delivery app leveraging Firebase for real-time database management and Google authentication. Designed an admin panel for managing food categories, with functionality for adding, editing, and removing items. Built a dynamic cart system with quantity adjustment and real-time total price calculations.",
-    "dates":"Dec 2022 - Oct 2023"
+    "description": "NexTalk is a modern chat app with secure authentication, smooth onboarding, a friends system, real-time messaging, video calling, customizable themes, and reliable features built for seamless communication. Developed a food delivery app leveraging Firebase for real-time database management and Google authentication. Designed an admin panel for managing food categories, with functionality for adding, editing, and removing items.",
+    "dates":"Dec 2022 - Oct 2024"
   },
   {
     "image": "/ncr.png",

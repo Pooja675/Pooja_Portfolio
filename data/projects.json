@@ -1,4 +1,16 @@
 [
+
+  {
+    "thumbnail": "/zynkUpHomePage.png",
+    "title": "ZynkUp",
+    "link": {
+      "label": "zynkup-chatapp.onrender.com",
+      "url": "https://zynkup-chatapp.onrender.com/auth"
+    },
+    "description": "A real-time messaging platform with secure authentication, personal and group chats, file and image sharing, easy downloads, emoji support, and a fully responsive design for seamless communication across devices.",
+    "languageIcons":["/html_icon.png","/tailwindCSS.png","/react_icon.png", "/zustand.png", "/node_icon.png", "/mongodb.png"]
+  },
+
   {
     "thumbnail": "/mern-blog1.png",
     "title": "WebDev Chronicles",
@@ -10,15 +22,26 @@
     "languageIcons":["/html_icon.png","/tailwindCSS.png","/react_icon.png", "/redux.png", "/node_icon.png", "/mongodb.png"]
   },
 
-  {
-    "thumbnail": "/flavorsDash.png",
-    "title": "Flavors Dash",
+   {
+    "thumbnail": "/NexTalk.png",
+    "title": "NexTalk - Video Calling Chat App",
     "link": {
-      "label": "FlavorsDash.netlify.app",
-      "url": "https://flavorsdash-fooddelivery-application.netlify.app/"
+      "label": "NexTalk555.com",
+      "url": "https://nextalk-555.onrender.com/"
     },
-    "description": "Developed a food delivery app with Google authentication using Firebase and leveraged Firebase for efficient data management and updates.",
-    "languageIcons":["/html_icon.png","/tailwindCSS.png","/react_icon.png",  "/redux.png"]
+    "description": "NexTalk is a secure and feature-rich communication platform offering real-time chat, video calling, and a seamless social experience.",
+    "languageIcons":["/html_icon.png","/tailwindCSS.png","/react_icon.png", "/redux.png", "/node_icon.png", "/mongodb.png"]
+  },
+
+   {
+    "thumbnail": "/flavorsDash.png",
+    "title": "FlavorsDash",
+    "link": {
+      "label": "FlavorsDash-netlify.com",
+      "url": "https://flavorsdash.netlify.app/"
+    },
+    "description": "Developed a food delivery app leveraging Firebase for real-time database management and Google authentication.",
+    "languageIcons":["/html_icon.png","/tailwindCSS.png","/react_icon.png", "/redux.png"]
   }
   
 
