@@ -40,7 +40,7 @@ const Hero = () => {
             src="/profile_light_purple.png"
             alt="Light profile"
             width={372}
-            height={430}
+            height={425}
             className="hidden md:block w-[372px] h-[430px] absolute right-0 -z-10 group-hover:scale-[102%] group-hover:-rotate-2 ease-in-out duration-300"
           />
           <Image
@@ -51,12 +51,12 @@ const Hero = () => {
             className="hidden md:block w-[372px] h-[430px] absolute right-0 -z-10 group-hover:scale-[102%] group-hover:rotate-2 ease-in-out duration-300"
           />
           <Image
-            src="/profile_picture.jpg"
+            src="/profile_picture.png"
             alt="Profile profile"
             width={372}
-            height={417}
+            height={416}
             style={{ width: "auto", height: "auto" }} 
-            className="hidden md:block min-w-[355px] h-[417px] z-10 mr-[7.7px] my-[6.5px] rounded-md group-hover:scale-[102%] ease-in-out duration-300"
+            className="hidden md:block min-w-[355px] h-[420px] z-10 mr-[7.7px] my-[6.5px] rounded-md group-hover:scale-[102%] ease-in-out duration-300"
           />
         </Reveal>
       </div>
